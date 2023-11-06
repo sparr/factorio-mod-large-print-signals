@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2023-11-06
+  Features:
+    - Replace alphanumeric signal icons with bigger white text
+    - Shell script to generate new icons
