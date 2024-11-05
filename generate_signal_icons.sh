@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 chars=ABCDEFGHIJKLMNOPQRTSUVWXYZ0123456789
 for (( i=0; i<${#chars}; i++ )); do
